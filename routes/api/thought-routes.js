@@ -17,7 +17,7 @@ router
 
 //set up get one, put and delete
 router
-    route('/:id')
+    .route('/:id')
     .get(getThoughtById)
     .put(updateThought)
     .delete(deleteThought)

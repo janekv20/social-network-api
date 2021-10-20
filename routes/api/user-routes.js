@@ -18,7 +18,7 @@ router
 
 //set up get, put and delete routes
 router
-    route('/:id')
+    .route('/:id')
     .get(getUserById)
     .put(updateUser)
     .delete(deleteUser)
