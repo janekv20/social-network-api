@@ -4,9 +4,6 @@
 
 This project uses a NoSQL database API to enable our social media company to handle large amounts of unstructured data.
 
-## Visual Demonstration
-CRUD Tutorial
-
 ## Installation Instructions
 
 From repository `git clone <url>` to clone down respository to local machine
